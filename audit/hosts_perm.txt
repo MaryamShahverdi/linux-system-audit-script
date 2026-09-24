@@ -1,0 +1,2 @@
+# Permissions of hosts.bak
+-rw------- 1 maryam maryam 245 Sep 24 13:04 /home/maryam/exam_results/audit/hosts.bak
